@@ -1,0 +1,172 @@
+*{
+    margin: auto;
+}
+body{
+    background-image: url(https://img.pikbest.com/ai/illus_our/20230426/93edb31f1b75422132d82c69c6a5de02.jpg!bw700);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    display: flex;
+}
+.grid{
+    height: 500px;
+    display: grid;
+    grid-template-columns: auto;
+    padding: 10%;
+}
+.items{
+    border: 1px solid black;
+}
+.items:hover{
+    box-shadow: 0px 1px 10px 1px black;
+}
+.item1{
+    width: 300px;
+    color: white;
+    font-size: 15px;
+    background-color: rgba(36, 26, 28, 0.808);
+}
+.txt{
+    margin-left:10px ;
+}
+.item2{
+    margin-top: -10px;
+    width:190px;
+    height: 104px;
+    position: relative;
+    top: 12px;
+    left: -55px;
+}
+.img1{
+    width: 190px;
+    height: 104px;
+    position: relative;
+}
+.div1{
+    border: none;
+    position: relative;
+    top: 2px;
+}
+.div2{
+    border: none;
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 105px;
+    height: 107px;
+    position: relative;
+    left: 100px;
+    top: -95px;
+}
+.item3{
+    width: 50px;
+    height: 50px;
+}
+.img2{
+    height: 50px;
+}
+.item4{
+    width: 50px;
+    height: 50px;
+}
+.img3{
+    height: 50px;
+}
+.item5{
+    width: 50px;
+    height: 50px;
+}
+.item6{
+    width: 50px;
+    height: 50px;
+}
+.item7{
+    background-image: url(https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?cs=srgb&dl=pexels-pixabay-56866.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 145px;
+    height: 150px;
+    position: relative;
+    top: -90px;
+    left: -78px;
+}
+.txt1{
+    color: white;
+    position: relative;
+    top: 85%;
+    left: 5px;
+}
+.item8{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS22MGdRN8Zcpw7G9P34YvIhNQ5S5zR6kqQ1q3Ki3cwWZqxUOVSkAgAlrMrfUrQsF720h8&usqp=CAU);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 145px;
+    height: 150px;
+    position: relative;
+    top: -242px;
+    left: 80px;
+}
+.grid1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -50px;
+    left: -280px;
+    width: 300px;
+    height:400px;
+}
+.item9{
+    width: 300px;
+    height: 180px;
+    background-color: rgb(141, 25, 145);
+    color: white;
+    border: 1px solid black;
+}
+.txt2{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.txt3{
+    font-size: 80px;
+    position: relative;
+    left: 200px;
+    top: -75px;
+}
+.txt4{
+    position: relative;
+    left: 220px;
+    top: -90px;
+}
+.fa-calendar-days{
+    position: relative;
+    top: 80px;
+    left: 10px;
+    font-size: 25px;
+}
+.item10{
+    background-image: url(https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL0hvdy1DbG91ZHMtV29yay5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 210px;
+    border: 1px solid black;
+    position: relative;
+    top: 5px;
+}
+.t1{
+    font-size: 50px;
+    margin-left: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.t2{
+    font-size: 20px;
+    margin-left: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.t3{
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
